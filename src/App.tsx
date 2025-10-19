@@ -10,7 +10,7 @@ function App() {
       {/* value pass in props 
       value pass in state */}
     {/* < CalculateComp  length={5} width={7}/> */}
-    <CalculateComp />
+    <CalculateComp length={5} width={4}/>
     </>
   )
 }
